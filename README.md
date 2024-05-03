@@ -8,8 +8,9 @@ Computer Science Student at <a target="_blank" href="https://descomplica.com.br/
 </a>
 
 <a href="https://www.instagram.com/is_kaworii/">
-  <img align="left" alt="Beatriz's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+  <img align="left" alt="Beatriz's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"/>
 </a>
+;
 </br></br>
 
 
