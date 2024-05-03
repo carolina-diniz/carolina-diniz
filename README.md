@@ -13,7 +13,7 @@ Computer Science Student at <a target="_blank" href="https://descomplica.com.br/
 </br>
 
 
-** about me **
+**about me:**
 
 - 😄 Pronouns: She/her;
 - 💬 Ask me about anything;
