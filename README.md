@@ -16,6 +16,7 @@ Computer Science Student at <a target="_blank" href="https://descomplica.com.br/
 **about me:**
 - 🌱 I’m currently learning angular.cli;
 - 😄 Pronouns: She/her;
+- 🏳️‍⚧️ Im transgender;
 - 💬 Ask me about anything;
 - 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/carolina-da-silva-diniz-a242b5211/">@carolinadiniz </a>
 
