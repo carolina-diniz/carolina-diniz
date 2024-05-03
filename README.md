@@ -12,6 +12,9 @@ Computer Science Student at <a target="_blank" href="https://descomplica.com.br/
 </a>
 <p></p>
 
+
+** about me **
+
 - 😄 Pronouns: She/her;
 - 💬 Ask me about anything;
 - 📫 How to reach me: <a href="" >@carolinadiniz </a>
