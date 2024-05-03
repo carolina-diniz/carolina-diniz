@@ -10,7 +10,6 @@ Computer Science Student at <a target="_blank" href="https://descomplica.com.br/
 <a href="https://www.instagram.com/is_kaworii/">
   <img align="left" alt="Beatriz's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"/>
 </a>
-;
 </br></br>
 
 
@@ -19,7 +18,7 @@ Computer Science Student at <a target="_blank" href="https://descomplica.com.br/
 - 😄 Pronouns: She/her;
 - 🏳️‍⚧️ Im transgender;
 - 💬 Ask me about anything;
-- 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/carolina-da-silva-diniz-a242b5211/">@carolinadiniz </a;
+- 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/carolina-da-silva-diniz-a242b5211/">@carolinadiniz </a>;
 
 <!--
 **carolinadiniz/carolinadiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
