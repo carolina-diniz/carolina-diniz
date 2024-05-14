@@ -4,20 +4,6 @@
 
 Computer Science Student at [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/)</a>.
 
-<a href="https://www.linkedin.com/in/carolina-da-silva-diniz-a242b5211/">
-
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="22px" height="22px"/>
-          
-</a>
-
-<a href="https://www.instagram.com/is_kaworii/">
-
-  <img align="left" alt="Beatriz's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"/>
-
-</a>
-</br></br>
-
-
 **about me:**
 - 🌱 I’m currently learning Angular;
 - 😄 Pronouns: She/her;
@@ -34,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##
 ## Ferramentas e Tecnologias:
 
 <img loading="lazy" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" width="40px" height="40px"/>
@@ -56,11 +43,17 @@ Here are some ideas to get you started:
 
 <!--<img loading="lazy" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" height="40px"/>-->
 
-<hr>
-
+##
 <div>
 <a href="https://github.com/carolinadiniz">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinadiniz&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinadiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-          
+
+##
+### Contatos:
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/carolina-da-silva-diniz-a242b5211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:caroldinizc21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/is_kaworii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
