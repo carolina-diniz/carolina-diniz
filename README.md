@@ -1,7 +1,7 @@
 ### Hi! I'm ✨Carolina✨, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
 
-Computer Science Student at <a target="_blank" href="https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/">Descomplica Faculdade Digital </a>
+Computer Science Student at [Descomplica Faculdade Digital]("https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/")</a>.
 
 <a href="https://www.linkedin.com/in/carolina-da-silva-diniz-a242b5211/">
   <img align="left" alt="Beatriz's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
