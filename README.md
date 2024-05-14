@@ -1,15 +1,14 @@
 
-### Hi! I'm ✨Carolina✨, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Olá! Eu sou ✨Carolina✨, e bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
 
-Computer Science Student at [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/)</a>.
+Estudante de Ciência da Computação na [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/)</a>.
 
-**about me:**
-- 🌱 I’m currently learning Angular;
-- 😄 Pronouns: She/her;
-- 🏳️‍⚧️ I’m transgender;
-- 💬 Ask me about anything;
-- 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/carolina-da-silva-diniz-a242b5211/">@carolinadiniz </a>;
+**Sobre mim:**
+- 😄 Pronomes: Ela/dela;
+- 🏳️‍⚧️ Eu sou Transgenero;
+- 💬 Pode fazer qualquer pergunta;
+- 📫 Como me encontrar: <a target="_blank" href="https://www.linkedin.com/in/carolina-da-silva-diniz-a242b5211/">@carolinadiniz </a>;
 
 <!--
 **carolinadiniz/carolinadiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
