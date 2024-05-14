@@ -55,4 +55,12 @@ Here are some ideas to get you started:
 <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40px" height="40px"/>
 
 <!--<img loading="lazy" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" height="40px"/>-->
+
+<hr>
+
+<div>
+<a href="https://github.com/carolinadiniz">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinadiniz&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinadiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
           
