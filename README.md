@@ -5,8 +5,6 @@
 Estudante de Ciência da Computação na [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/)</a>.
 
 **Sobre mim:**
-- 😄 Pronomes: Ela/dela;
-- 🏳️‍⚧️ Eu sou Transgenero;
 - 💬 Pode fazer qualquer pergunta;
 - 📫 Como me encontrar: <a target="_blank" href="https://www.linkedin.com/in/carol-diniz/">@caroldiniz </a>;
 
