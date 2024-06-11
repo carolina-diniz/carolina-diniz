@@ -1,12 +1,12 @@
 
-### Olá! Eu sou ✨Carolina✨, e bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Olá! Eu sou Paulo, e bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
 
 Estudante de Ciência da Computação na [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/)</a>.
 
 **Sobre mim:**
 - 💬 Pode fazer qualquer pergunta;
-- 📫 Como me encontrar: <a target="_blank" href="https://www.linkedin.com/in/carol-diniz/">@caroldiniz </a>;
+- 📫 Como me encontrar: <a target="_blank" href="https://www.linkedin.com/in/carol-diniz/">@PauloDiniz </a>;
 
 <!--
 **carolinadiniz/carolinadiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
