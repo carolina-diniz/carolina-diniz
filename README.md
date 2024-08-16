@@ -6,7 +6,7 @@ Estudante de Ciência da Computação na [Descomplica Faculdade Digital](https:/
 
 **Sobre mim:**
 - 💬 Pode fazer qualquer pergunta;
-- 📫 Como me encontrar: <a target="_blank" href="https://www.linkedin.com/in/carol-diniz/">@PauloDiniz </a>;
+- 📫 Como me encontrar: <a target="_blank" href="https://www.linkedin.com/in/is-kaworii/">@is_kaworii </a>;
 
 <!--
 **carolinadiniz/carolinadiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 ### Contatos:
 <div align="center"> 
   <a href="https://www.linkedin.com/in/is-kaworii/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:phdsd.phdsd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:caroldinizc21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/is_kaworii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
