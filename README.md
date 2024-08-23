@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Paulo, e bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Olá! Eu sou Carol, e bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
 
 Estudante de Ciência da Computação na [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/)</a>.
