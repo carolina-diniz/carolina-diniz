@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 ## Estou aprendendo:
 
-<img loading="lazy" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  width="40px" height="40px"/>
-
 <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40px" height="40px"/>
 
 <!--<img loading="lazy" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" height="40px"/>-->
