@@ -2,7 +2,7 @@
 
 ### Front-end Developer
 
-Atualmente integro o time de **Smart TV do Globoplay** na TV Globo, desenvolvendo interfaces que impactam milhões de usuários.
+Atualmente integro o time de **Smart TV do <a href="https://globoplay.globo.com" target="_blank">Globoplay</a>** na TV Globo, desenvolvendo interfaces que impactam milhões de usuários.
 
 - 🔭 **Trabalhando em:** Desenvolvimento de aplicações para Smart TVs.
 - 🎓 **Estudando:** Ciência da Computação na Descomplica Faculdade Digital.
