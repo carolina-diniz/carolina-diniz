@@ -1,10 +1,10 @@
 # Olá! Eu sou Carol, e bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Front-end Developer | Smart TV Enthusiast
+### Front-end Developer
 
-Atualmente integro o time de **Smart TV do Globoplay** na TV Globo, desenvolvendo interfaces que impactam milhões de usuários. Sou apaixonada por criar experiências fluidas e performáticas.
+Atualmente integro o time de **Smart TV do Globoplay** na TV Globo, desenvolvendo interfaces que impactam milhões de usuários.
 
-- 🔭 **Trabalhando em:** Desenvolvimento de aplicação para Smart TVs (Tizen, WebOs, etc).
+- 🔭 **Trabalhando em:** Desenvolvimento de aplicações para Smart TVs.
 - 🎓 **Estudando:** Ciência da Computação na Descomplica Faculdade Digital.
 - 🌱 **Aprendendo:** Aprofundando em Engenharia de Software e Arquitetura Front-end.
 - 💬 **Pergunte-me sobre:** React, TypeScript e desafios de desenvolvimento para TV.
