@@ -29,14 +29,6 @@ Atualmente integro o time de **Smart TV do <a href="https://globoplay.globo.com"
 
 <br/>
 
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolina-diniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-diniz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ---
 
